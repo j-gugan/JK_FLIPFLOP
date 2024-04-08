@@ -33,4 +33,4 @@ endmodule
 # Output
 ![jk flip flop](https://github.com/j-gugan/JK_FLIPFLOP/assets/163828735/5eb8b556-06a0-46b2-bf87-565ba9676758)
 # Result
-Thus,JK FLIP FLOP using Vivado is stimulated and synthesised.
+Thus,JK FLIP FLOP using Vivado is simulated and synthesised.
